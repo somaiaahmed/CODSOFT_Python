@@ -21,6 +21,10 @@ A simple calculator with basic arithmetic operations. This project prompts the u
 ### Demo
 
 
+https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/3f59daa5-5997-48db-8586-334633b491cd
+
+
+
 ---
 
 ## Project 3: Password Generator
