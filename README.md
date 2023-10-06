@@ -36,7 +36,8 @@ A password generator application that generates strong and random passwords for 
 
 
 
-https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/8cf3ca2e-3c1a-4078-bbf5-fab834b3b154
+https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/11c0406b-836d-4a4d-ba51-f34bf1849a41
+
 
 
 ---
