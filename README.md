@@ -32,8 +32,12 @@ https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/3f59daa5-5997-48db
 ### Description
 A password generator application that generates strong and random passwords for users. This project allows users to specify the length and complexity of the password.
 
-### Instructions
-1. [Link to Demo](#) - Click here to see a demo of the Password Generator.
+### Demo Video
+
+
+
+https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/8cf3ca2e-3c1a-4078-bbf5-fab834b3b154
+
 
 ---
 
