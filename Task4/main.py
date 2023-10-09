@@ -177,7 +177,7 @@ def getWeather():
                 day5.config(text=fifth.strftime("%A"))
 
                 sixth = first + timedelta(days=5)
-                day6.config(text=fifth.strftime("%A"))
+                day6.config(text=sixth.strftime("%A"))
 
                 seventh = first + timedelta(days=6)
                 day7.config(text=seventh.strftime("%A"))
@@ -316,7 +316,7 @@ thirdframe=Frame(root,width=70,height=115,bg="#282829")
 thirdframe.place(x=405,y=325)
 
 day3=Label(thirdframe,bg="#282829",fg="#fff")
-day3.place(x=10,y=5)
+day3.place(x=5,y=5)
 
 thirdimage=Label(thirdframe,bg="#282829")
 thirdimage.place(x=7,y=20)
@@ -329,7 +329,7 @@ fourthframe=Frame(root,width=70,height=115,bg="#282829")
 fourthframe.place(x=505,y=325)
 
 day4=Label(fourthframe,bg="#282829",fg="#fff")
-day4.place(x=5,y=5)
+day4.place(x=10,y=5)
 
 fourthimage=Label(fourthframe,bg="#282829")
 fourthimage.place(x=7,y=20)
