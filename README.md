@@ -21,7 +21,8 @@ A simple calculator with basic arithmetic operations. This project prompts the u
 ### Demo Video
 
 
-https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/3f59daa5-5997-48db-8586-334633b491cd
+https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/c1c5b670-adef-4e91-8aee-4dba46034578
+
 
 
 
@@ -36,7 +37,8 @@ A password generator application that generates strong and random passwords for 
 
 
 
-https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/11c0406b-836d-4a4d-ba51-f34bf1849a41
+https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/483a3077-ba7d-4352-b021-557c7460b506
+
 
 
 
@@ -48,7 +50,11 @@ https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/11c0406b-836d-4a4d
 A weather forecast application developed in Python. This project retrieves weather data from an API and presents it in a user-friendly format. Users can input a city name or zip code, and the application will provide current weather information, including temperature, humidity, wind speed, and a short weather description.
 
 ### Instructions
-1. [Link to Demo](#) - Click here to see a demo of the Weather Forecast Application.
+
+
+[https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/ad24e55a-c921-49be-82f1-9fd49b4175ec](https://github.com/somaiaahmed/CODSOFT_Python/assets/52898207/d850acec-786f-41b3-940c-3ad627f2e8fa
+)
+
 
 ---
 
